@@ -1,0 +1,23 @@
+I am using a Valve index HMD and have started getting small white, red or green noises in the displayed image.
+The HMD itself seems to be working fine, so I think the cable may be deteriorating.
+I would like a replacement cable.
+Also, the clasp that holds the cable in place at the back of the head is broken, so I would like to have that replacement part as well.
+
+I have checked the below and the problem has not been resolved.
+- I made sure the cable was firmly plugged in.
+- The graphics board driver was the latest version.
+- I tested on a different PC and the problem persisted.
+Thank you in advance for your consideration.
+
+Translated with www.DeepL.com/Translator (free version)
+
+Valve indexのHMDを使用していますが、表示される映像に白色や赤色、緑色の小さなノイズが入るようになりました。
+HMD自体は正常に動作しているようなので、ケーブルが劣化しているのではないかと思います。
+交換用のケーブルが欲しいです。
+また、後頭部にケーブルを固定するための留具が折れているので、その交換パーツも欲しいです。
+
+以下のことを確認しましたが、問題が解決しませんでした。
+- 私はケーブルがしっかり刺さっていることを確認しました。
+- グラフィックボードのドライバーは最新版でした。
+- 私は別のPCでテストしましたが、問題は解決しませんでした。
+ご検討のほど、よろしくお願いいたします。
